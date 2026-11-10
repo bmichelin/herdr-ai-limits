@@ -1,0 +1,4 @@
+.DS_Store
+# Written by `herdr-app check`; they belong to Herdr
+mods/*/gpui-kit.d.ts
+mods/*/jsconfig.json
